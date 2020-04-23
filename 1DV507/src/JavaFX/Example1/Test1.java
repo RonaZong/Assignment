@@ -1,4 +1,4 @@
-package Test;
+package JavaFX.Example1;
 
 import java.sql.*;
 
@@ -22,7 +22,7 @@ public class Test1 {
 
             preparedStatement = connect.prepareStatement("insert into feedback.comments values (default, ?, ?, ?, ?, ?, ?)");
 
-            preparedStatement.setString(1, "Test");
+            preparedStatement.setString(1, "JavaFX");
             preparedStatement.setString(2, "TestEmail");
             preparedStatement.setString(3, "TestWebpage");
             preparedStatement.setDate(4, new Date(2009, 12,11));
@@ -35,7 +35,7 @@ public class Test1 {
             writeResultSet(resultSet);
 
             preparedStatement = connect.prepareStatement("delete from feedback.comments where myuser= ? ; ");
-            preparedStatement.setString(1, "Test");
+            preparedStatement.setString(1, "JavaFX");
             preparedStatement.executeUpdate();
 
             resultSet = statement.executeQuery("select * from feedback.comments");
