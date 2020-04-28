@@ -4,12 +4,11 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Arrays;
-import java.util.function.Predicate;
 import java.util.stream.Stream;
 
 public class WarAndPeace {
     public static void main(String[] args) throws IOException {
-        String text = readText("1DV507/src/xz222bb_assign2/WarAndPeace/WarAndPeace.txt");
+        String text = readText("C:\\Java\\IdeaProjects\\Assignment\\1DV507\\src\\xz222bb_assign2\\WarAndPeace\\WarAndPeace.txt");
         String[] words = text.split(" ");  // Simple split, will be cleaned up later on
         System.out.println("Initial word count: " + words.length);  // 577091
 

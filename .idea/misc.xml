@@ -7,7 +7,15 @@
     <option name="OTHER_OPTIONS" value="-encoding utf-8 -charset utf-8" />
     <option name="LOCALE" value="IntQueue_Javadoc" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="13" project-jdk-type="JavaSDK">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/1DV508/src/pom.xml" />
+        <option value="$PROJECT_DIR$/1DV508/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="hibernate-commons-annotations-5.1.0.Final">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/common/hibernate-commons-annotations/5.1.0.Final/hibernate-commons-annotations-5.1.0.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate/3.2.4.sp1/hibernate-3.2.4.sp1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-annotations/3.3.0.ga/hibernate-annotations-3.3.0.ga.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.14.Final/hibernate-core-5.4.14.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

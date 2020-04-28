@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1DV506/1DV506.iml" filepath="$PROJECT_DIR$/1DV506/1DV506.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1DV507/1Dv507.iml" filepath="$PROJECT_DIR$/1DV507/1Dv507.iml" />
       <module fileurl="file://$PROJECT_DIR$/1DV508/1DV508.iml" filepath="$PROJECT_DIR$/1DV508/1DV508.iml" />
       <module fileurl="file://$PROJECT_DIR$/1DV600/1DV600.iml" filepath="$PROJECT_DIR$/1DV600/1DV600.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1DV507/1Dv507.iml" filepath="$PROJECT_DIR$/1DV507/1Dv507.iml" />
     </modules>
   </component>
 </project>
